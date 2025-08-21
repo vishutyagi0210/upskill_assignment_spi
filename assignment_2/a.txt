@@ -1,0 +1,12 @@
+1. Write a program to check whether a number is positive, negative, or zero using if-else.
+2. Write a program to find the largest of three numbers using nested if-else.
+3. Write a program to display the day of the week using switch.
+4. Print even numbers from 1 to 50 using while loop.
+5. Calculate factorial of a number using for loop.
+6. Check whether a number is prime using a loop.
+7. Print the sum of digits of a number using while loop.
+8. Print Fibonacci series up to 10 terms using loop.
+9. Find the sum of first N natural numbers using for loop.
+10. Reverse a given number using while loop.
+11. Generate a multiplication table for any number entered by user.
+12. Write a program to count the number of digits in a number using while loop.
