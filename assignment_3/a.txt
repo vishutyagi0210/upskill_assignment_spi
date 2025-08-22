@@ -1,0 +1,10 @@
+1. Find the maximum and minimum element in a 1D array.
+2. Write a program to reverse the elements of an array.
+3. Write a program to multiply two 2D matrices.
+4. Write a program to calculate the sum of even and odd numbers separately in an array.
+5. Write a program to copy one array to another array.
+6. Write a program to count the number of positive and negative numbers in an array.
+7. Write a program to merge two arrays into one.
+8. Write a program to transpose a 2D matrix.
+9. Write a program to find the sum of diagonal elements of a matrix.
+10. Write a program to check if two matrices are equal.
