@@ -1,0 +1,6 @@
+1. WAP to find factorial of given number using recursion. 
+2. WAP to print table of given number using function. 
+3. WAP to find greatest number in three numbers using function. 
+4. WAP to find area and perimeter of rectangle using function. 
+5. WAP to check given number is prime or not using function. 
+6. WAP to check given string is palindrome or not using function.
